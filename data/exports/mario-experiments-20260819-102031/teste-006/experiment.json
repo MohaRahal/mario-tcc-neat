@@ -1,0 +1,20 @@
+{
+    "experiment": "teste-006",
+    "created_at": "2026-08-18T10:17:19.481712",
+    "additional_generations": 50,
+    "evaluation_mode": "parallel",
+    "available_logical_cpus": 12,
+    "reserved_logical_cpus": 2,
+    "workers": 10,
+    "config_file": "configs\\neat-config.ini",
+    "training_mode": "new",
+    "resume_from": null,
+    "status": "completed",
+    "starting_generation": 0,
+    "ending_generation": 50,
+    "completed_generations": 50,
+    "winner_fitness": 1816.0,
+    "training_time_seconds": 622.4412202000003,
+    "finished_at": "2026-08-18T10:27:42.090942",
+    "interrupted": false
+}

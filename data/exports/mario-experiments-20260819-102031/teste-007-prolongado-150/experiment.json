@@ -1,0 +1,20 @@
+{
+    "experiment": "teste-007-prolongado-150",
+    "created_at": "2026-08-18T13:51:22.804571",
+    "additional_generations": 150,
+    "evaluation_mode": "parallel",
+    "available_logical_cpus": 12,
+    "reserved_logical_cpus": 2,
+    "workers": 10,
+    "config_file": "configs\\neat-config.ini",
+    "training_mode": "resume",
+    "resume_from": "data\\experiments\\teste-007\\checkpoints\\neat-checkpoint-50",
+    "status": "completed",
+    "starting_generation": 50,
+    "ending_generation": 200,
+    "completed_generations": 150,
+    "winner_fitness": 1883.55,
+    "training_time_seconds": 1643.1879372000003,
+    "finished_at": "2026-08-18T14:18:46.188023",
+    "interrupted": false
+}

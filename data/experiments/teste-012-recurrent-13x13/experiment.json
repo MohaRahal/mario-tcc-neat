@@ -1,0 +1,20 @@
+{
+    "experiment": "teste-012-recurrent-13x13",
+    "created_at": "2026-09-28T08:48:25.718487",
+    "additional_generations": 3000,
+    "evaluation_mode": "parallel",
+    "available_logical_cpus": 12,
+    "reserved_logical_cpus": 2,
+    "workers": 10,
+    "config_source": "configs\\neat-config.ini",
+    "training_mode": "new",
+    "resume_from": null,
+    "architecture": {
+        "inputs": 169,
+        "outputs": 7,
+        "network": "recurrent",
+        "population": 300,
+        "action_repeat": 5
+    },
+    "status": "running"
+}

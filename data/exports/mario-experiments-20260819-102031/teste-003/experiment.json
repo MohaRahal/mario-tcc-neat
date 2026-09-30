@@ -1,0 +1,13 @@
+{
+    "experiment": "teste-003",
+    "created_at": "2026-08-17T19:26:42.836216",
+    "generations": 50,
+    "evaluation_mode": "parallel",
+    "available_logical_cpus": 12,
+    "reserved_logical_cpus": 2,
+    "workers": 10,
+    "config_file": "configs\\neat-config.ini",
+    "winner_fitness": 1293.0,
+    "training_time_seconds": 817.505956399953,
+    "finished_at": "2026-08-17T19:40:20.531437"
+}

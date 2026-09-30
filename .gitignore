@@ -1,0 +1,42 @@
+# Ambientes virtuais e configuracoes locais
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Cache e artefatos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Arquivos de editores e do sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Saidas temporarias
+*.log
+events.out.tfevents.*
+research/outputs/
+
+# Checkpoints do treinamento NEAT em qualquer experimento
+checkpoints/
+neat-checkpoint-*
+
+# Melhor modelo gerado durante o treinamento
+winner.pkl
+.winner.pkl.tmp

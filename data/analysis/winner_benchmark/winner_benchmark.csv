@@ -1,0 +1,2 @@
+experiment,seed,num_inputs,stagnation_sensor,approach_risk_sensor,winner_fitness,initial_x,max_x,final_x,distance,steps,total_reward,final_time,flag_get,clear,death,termination_reason
+teste-006-final-prolongado,42,68,True,True,2728.5,40,40,40,0,8019,-415.0,0,False,False,True,death
