@@ -40,3 +40,6 @@ neat-checkpoint-*
 # Melhor modelo gerado durante o treinamento
 winner.pkl
 .winner.pkl.tmp
+
+# Preservar o modelo final de cada experimento
+!data/experiments/**/winner.pkl
